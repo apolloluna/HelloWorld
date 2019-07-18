@@ -1,0 +1,2 @@
+Class=∑¥…‰.Service1
+Method=do1
